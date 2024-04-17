@@ -649,8 +649,8 @@ body {
     margin-right: 16px;
     -webkit-animation-name: anime;
             animation-name: anime;
-    -webkit-animation-duration: 17s;
-            animation-duration: 17s;
+    -webkit-animation-duration: 13s;
+            animation-duration: 13s;
     -webkit-animation-timing-function: linear;
             animation-timing-function: linear;
     -webkit-animation-iteration-count: infinite;
@@ -701,8 +701,8 @@ body {
             transform: translateX(calc(-100% - 20px));
     -webkit-animation-name: anime;
             animation-name: anime;
-    -webkit-animation-duration: 18s;
-            animation-duration: 18s;
+    -webkit-animation-duration: 15s;
+            animation-duration: 15s;
     -webkit-animation-timing-function: linear;
             animation-timing-function: linear;
     -webkit-animation-iteration-count: infinite;
@@ -911,8 +911,8 @@ body {
         font-weight: 900;
         opacity: 0;
         /* animation-name: loaderAnim */
-        -webkit-animation-duration: 2s;
-                animation-duration: 2s;
+        -webkit-animation-duration: 1s;
+                animation-duration: 1s;
 
         /* display: none; */
         -webkit-animation-iteration-count: infinite;
